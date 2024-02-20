@@ -19,3 +19,5 @@ Github - это сайт куда мы можем отправлять все ч
 1.git clone git@github.com:6Katana9/test1.git
 2.git pull origin master
 
+
+
